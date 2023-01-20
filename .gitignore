@@ -1,5 +1,0 @@
-*.db
-*.crt
-*.key
-db/
-cert/
